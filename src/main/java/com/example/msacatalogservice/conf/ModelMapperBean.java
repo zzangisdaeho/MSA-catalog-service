@@ -1,4 +1,4 @@
-package com.example.msacatalogservice.controller;
+package com.example.msacatalogservice.conf;
 
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
